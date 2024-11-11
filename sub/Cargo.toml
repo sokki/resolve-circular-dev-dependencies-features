@@ -1,0 +1,7 @@
+[package]
+name = "sub"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+main = { path = "../main", features = ["testing"] }

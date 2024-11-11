@@ -1,0 +1,3 @@
+[workspace]
+members = ["main", "sub"]
+resolver = "2"
